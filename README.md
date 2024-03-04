@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Hi,this is a full stack NExtjs application using prisma and postgresql using avian
+DevX
 
 First, run the development server:
 
