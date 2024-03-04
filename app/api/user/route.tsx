@@ -52,5 +52,4 @@ export function GET()
 // }
 
 
-///postgres://avnadmin:AVNS_GFK3wnuCm_ZjbLeS4ej@pg-1dbe10af-sujitbhongle-3fbe.a.aivencloud.com:13487/defaultdb?sslmode=require
 
